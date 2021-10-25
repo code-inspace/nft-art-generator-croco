@@ -30,13 +30,23 @@ const layerConfigurations = [
   {
     growEditionSizeTo: 5,
     layersOrder: [
-      { name: "Background" },
-      { name: "Eyeball" },
-      { name: "Eye color" },
-      { name: "Iris" },
-      { name: "Shine" },
-      { name: "Bottom lid" },
-      { name: "Top lid" },
+      { name: "Croco vert" },
+      { name: "Bouche verte" },
+      { name: "Yeux Verts" },
+      { name: "Pupilles" },
+      { name: "Sourcils Verts" },
+      { name: "Accessoire yeux" },
+    ],
+  },
+  {
+    growEditionSizeTo: 10,
+    layersOrder: [
+      { name: "Croco rouge" },
+      { name: "Bouche rouge" },
+      { name: "Yeux Rouges" },
+      { name: "Pupilles" },
+      { name: "Sourcils Rouges" },
+      { name: "Accessoire yeux" },
     ],
   },
 ];
